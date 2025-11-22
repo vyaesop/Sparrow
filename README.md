@@ -1,8 +1,6 @@
-# PingPanda - A Modern Fullstack Event Monitoring SaaS
+# Sparrow - A Modern Fullstack Event Monitoring SaaS
 
 Built with the Next.js App Router, Postgres, TypeScript, Tailwind & Clerk
-
-![Project Image](https://github.com/joschan21/pingpanda/blob/main/public/thumbnail.png)
 
 ## Features
 
@@ -17,21 +15,6 @@ Built with the Next.js App Router, Postgres, TypeScript, Tailwind & Clerk
 - 🔑 Authentication using Clerk
 - ⌨️ 100% written in TypeScript
 - 🎁 ...much more
-
-## Getting started
-
-To get started with this project, run
-
-```bash
-  git clone https://github.com/joschan21/pingpanda.git
-```
-
-and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
-
-
-## Acknowledgements
-
-- [Clerk](https://link.joshtriedcoding.com/clerk) for making this project possible
 
 ## License
 
